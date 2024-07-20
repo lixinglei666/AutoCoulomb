@@ -1,0 +1,1 @@
+./all.sh -T 19511021Mw7.5slipmodel.in -P sampling_grids_30.in -M 121.25 -C 1 -S 25 -D 70 -R 40 -F 0.4 -B 0
